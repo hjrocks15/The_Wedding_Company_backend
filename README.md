@@ -1,15 +1,10 @@
-## 📌 How to Implement the Organization Management Service (Brief Overview)
+##  How to Implement the Organization Management Service (Brief Overview)
 
 This backend is designed using **FastAPI** and **MongoDB** to support a **multi-tenant architecture**, where each organization has its own dynamic MongoDB collection. A central **Master Database** stores global metadata, organization details, and admin credentials.
 
 ---
 
-## 🚀 1. Project Setup
-
-1. Clone the repository  
-   ```bash
-   git clone <repo-url>
-   cd org_management_service
+##  1.  Setup
 
  2. Install dependencies
 
